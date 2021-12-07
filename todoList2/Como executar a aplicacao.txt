@@ -1,0 +1,5 @@
+Passos para executar o trabalho
+
+1. No terminal executar o comando "npm i" para instalar o node.js
+2. Também no terminal digite "npm run backend" para rodar o backend da aplicação
+3. Em seguida abra outro terminal e digite "npm run serve" Para rodar o app.vue
